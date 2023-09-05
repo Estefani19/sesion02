@@ -23,7 +23,7 @@ public class Pruebas {
 		
 		/*Mostrar cantidad de usuarios*/
 		System.out.println("nro de usuarios:" +lstUsuarios.size());
-		System.out.println("==============================================");
+		
 
 }
 }
